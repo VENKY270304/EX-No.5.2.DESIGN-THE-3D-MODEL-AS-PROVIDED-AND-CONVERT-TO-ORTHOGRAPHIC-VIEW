@@ -36,6 +36,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
 ## OUTPUT
+![VENKAT 5 1 (1)_00](https://user-images.githubusercontent.com/124234106/216251110-26f28125-57cc-4f00-9616-e3bde039d847.png)
 
 
 ## RESULT:
